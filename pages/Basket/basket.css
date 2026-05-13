@@ -1,0 +1,123 @@
+@import "../../root.css";
+@import "../../index.css";
+
+.container {
+  padding: calc(var(--size-1)) var(--size-3);
+  flex-direction: column;
+}
+
+.carts {
+  width: 100%;
+  border: 1px rgba(151, 151, 151, 0.712) solid;
+  border-radius: 20px;
+  flex: 1;
+  margin-bottom: 5%;
+}
+
+.cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5% 0;
+  padding: 0 2%;
+  font-weight: 600;
+}
+
+.cart img {
+  width: calc(var(--size-1) * 5);
+  border-radius: 20px;
+}
+
+.cart h1 {
+  font-size: calc(var(--size-1) / 1.25);
+}
+
+.cart p {
+  font-size: calc(var(--size-1) / 2);
+}
+
+.cart .div-price {
+  display: flex;
+  justify-content: space-around;
+  width: calc(var(--size-1) * 4.5);
+}
+
+.cart .close {
+  width: var(--size-1);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.order {
+  width: 100%;
+  border: 2px solid black;
+  height: min-content;
+  padding: calc(var(--size-1) / 1.5);
+  border-radius: 20px;
+}
+
+.order div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order .total {
+  font-size: calc(var(--size-1) / 2.5);
+}
+
+.order .rule {
+  margin: 5% 0;
+  line-height: calc(var(--size-1) / 2);
+  font-size: calc(var(--size-1) / 1.5);
+  justify-content: left;
+}
+
+.order .rule img {
+  width: calc(var(--size-1) / 1.25);
+  height: calc(var(--size-1) / 1.25);
+  margin-right: 2.5%;
+}
+
+.order button {
+  width: 100%;
+  border: greenyellow 1px solid;
+  font-size: calc(var(--size-1) / 1.5);
+  font-weight: 600;
+  padding: 1.5% 0 3% 0;
+  border-radius: 20px;
+  transition: all 0.2s ease-out;
+}
+
+.order button:hover {
+  background: rgba(172, 255, 47, 0.5);
+}
+
+.order button:active {
+  background: rgba(172, 255, 47, 0.3);
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+  }
+
+  .carts {
+    width: 72.5%;
+    flex: none;
+  }
+
+  .order {
+    width: 25%;
+  }
+
+  .order .rule {
+    margin: 5% 0;
+    font-size: calc(var(--size-1) / 2.5);
+  }
+
+  .order .rule img {
+    width: calc(var(--size-1) / 2);
+    height: calc(var(--size-1) / 2);
+  }
+}
