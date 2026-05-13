@@ -17,7 +17,7 @@ function render() {
   products.innerHTML = "";
 
   bdProducts.forEach((element) => {
-    if (!filter || element.categories === filter) {
+    if (filter === 0 || element.categories === filter) {
       products.appendChild(
         viewProduct(
           element.id,
