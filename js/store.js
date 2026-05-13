@@ -2,7 +2,7 @@ export const bdProducts = [
   {
     id: 0,
     title: "Purple Haze",
-    imageUrl: "/Img/products/purple-haze.jpg",
+    imageUrl: "./Img/products/purple-haze.jpg",
     description:
       "Легендарная сатива с ягодными нотками и мощным творческим эффектом. 22% ТГК.",
     price: 42.5,
@@ -11,7 +11,7 @@ export const bdProducts = [
   {
     id: 1,
     title: "Northern Lights",
-    imageUrl: "/Img/products/northern-lights.jpg",
+    imageUrl: "./Img/products/northern-lights.jpg",
     description:
       "Чистая индика с афганской генетикой. Идеально для глубокой релаксации и сна.",
     price: 39.99,
@@ -20,7 +20,7 @@ export const bdProducts = [
   {
     id: 2,
     title: "GSC",
-    imageUrl: "/Img/products/THCa-COOKIES-LD-HYBRID-EuphoriaCBD.png",
+    imageUrl: "./Img/products/THCa-COOKIES-LD-HYBRID-EuphoriaCBD.png",
     description:
       "Сбалансированный гибрид с десертным вкусом и мощным эйфорическим эффектом.",
     price: 48.9,
@@ -29,7 +29,7 @@ export const bdProducts = [
   {
     id: 3,
     title: "Афганский гашиш",
-    imageUrl: "/Img/products/kabul.png",
+    imageUrl: "./Img/products/kabul.png",
     description:
       "Черный мягкий гашиш, ручная работа. Классический опийный вкус.",
     price: 29.99,
@@ -38,7 +38,7 @@ export const bdProducts = [
   {
     id: 4,
     title: "Марокканский гашиш",
-    imageUrl: "/Img/products/marijuana-moroccan-hash-cannabis.png",
+    imageUrl: "./Img/products/marijuana-moroccan-hash-cannabis.png",
     description: "Прессованные трихомы светлого цвета. Мягкий и пластичный.",
     price: 24.99,
     categories: 1,
@@ -46,7 +46,7 @@ export const bdProducts = [
   {
     id: 5,
     title: "CBD Tincture",
-    imageUrl: "/Img/products/lazy-river-our-products-tincture.png",
+    imageUrl: "./Img/products/lazy-river-our-products-tincture.png",
     description:
       "Жидкий экстракт каннабиса для приема внутрь. Высокое содержание КБД.",
     price: 34.99,
@@ -55,7 +55,7 @@ export const bdProducts = [
   {
     id: 6,
     title: "CBD Oil 10%",
-    imageUrl: "/Img/products/cbd-oil-plain-cannabis.png",
+    imageUrl: "./Img/products/cbd-oil-plain-cannabis.png",
     description:
       "Масло с высоким содержанием КБД для снятия тревоги и воспалений.",
     price: 54.99,
@@ -64,7 +64,7 @@ export const bdProducts = [
   {
     id: 7,
     title: "Live Resin",
-    imageUrl: "/Img/products/REV_Concentrate_Paradise_Live_Jelly.png",
+    imageUrl: "./Img/products/REV_Concentrate_Paradise_Live_Jelly.png",
     description:
       "Концентрат каннабиса из замороженных шишек. Высокая терпеновая насыщенность.",
     price: 79.95,
@@ -73,7 +73,7 @@ export const bdProducts = [
   {
     id: 8,
     title: "Green Crack",
-    imageUrl: "/Img/products/Green-Crack-strain-medical-marijuana-bud.png",
+    imageUrl: "./Img/products/Green-Crack-strain-medical-marijuana-bud.png",
     description:
       "Бодрящий сорт для продуктивного рабочего дня. Цитрусовый аромат.",
     price: 44.95,
@@ -82,7 +82,7 @@ export const bdProducts = [
   {
     id: 9,
     title: "Bubble Hash",
-    imageUrl: "/Img/products/bubble-hash-quality-grades.png",
+    imageUrl: "./Img/products/bubble-hash-quality-grades.png",
     description: "Гидропонный гашиш высшего качества, полный распад.",
     price: 61.0,
     categories: 1,
@@ -90,7 +90,7 @@ export const bdProducts = [
   {
     id: 10,
     title: "Jack Herer",
-    imageUrl: "/Img/products/Jack-Herer.png",
+    imageUrl: "./Img/products/Jack-Herer.png",
     description:
       "Землистый вкус с сосновыми нотами. Эффект 70% sativa / 30% indica.",
     price: 40.0,
@@ -99,7 +99,7 @@ export const bdProducts = [
   {
     id: 11,
     title: "GDP",
-    imageUrl: "/Img/products/Granddaddy-Purple-Appeal.webp",
+    imageUrl: "./Img/products/Granddaddy-Purple-Appeal.webp",
     description: "Индика с сильным седативным эффектом. Вкус винограда и ягод.",
     price: 52.0,
     categories: 1,
@@ -107,7 +107,7 @@ export const bdProducts = [
   {
     id: 12,
     title: "Cannabis",
-    imageUrl: "/Img/products/cannabis-live-rosin.jpg",
+    imageUrl: "./Img/products/cannabis-live-rosin.jpg",
     description:
       "Чистый концентрат, полученный термопрессованием. Янтарный цвет.",
     price: 69.99,
@@ -116,7 +116,7 @@ export const bdProducts = [
   {
     id: 13,
     title: "Blueberry",
-    imageUrl: "/Img/products/blueberry.png",
+    imageUrl: "./Img/products/blueberry.png",
     description:
       "Индика-доминант с запахом черники. Мощный расслабляющий эффект.",
     price: 38.99,
@@ -125,7 +125,7 @@ export const bdProducts = [
   {
     id: 14,
     title: "Sour D",
-    imageUrl: "/Img/products/Sour-Diesel-cannabis-strain.webp",
+    imageUrl: "./Img/products/Sour-Diesel-cannabis-strain.webp",
     description: "Сатива с дизельным ароматом. Долгий творческий хай.",
     price: 47.9,
     categories: 1,
@@ -133,7 +133,7 @@ export const bdProducts = [
   {
     id: 15,
     title: "Амфетамин сульфат",
-    imageUrl: "/Img/products/таблетки-амфетамина.png",
+    imageUrl: "./Img/products/таблетки-амфетамина.png",
     description: "Белый кристаллический порошок стимулятора CNS. Чистота 72%.",
     price: 49.99,
     categories: 2,
@@ -141,7 +141,7 @@ export const bdProducts = [
   {
     id: 16,
     title: "Метамфетамин",
-    imageUrl: "/Img/products/метамфетамин.png",
+    imageUrl: "./Img/products/метамфетамин.png",
     description:
       "Голубоватые кристаллы высокой чистоты (95%+). Для курения или инъекций.",
     price: 119.95,
@@ -150,7 +150,7 @@ export const bdProducts = [
   {
     id: 17,
     title: "Кокаин гидрохлорид",
-    imageUrl: "/Img/products/illicit-white-powder-in-a-bag-Getty.png",
+    imageUrl: "./Img/products/illicit-white-powder-in-a-bag-Getty.png",
     description:
       "Колумбийский экспорт. Белый кристаллический порошок с характерным блеском.",
     price: 129.99,
@@ -159,7 +159,7 @@ export const bdProducts = [
   {
     id: 18,
     title: "Декспамфетамин",
-    imageUrl: "/Img/products/Dexedrine.png",
+    imageUrl: "./Img/products/Dexedrine.png",
     description:
       "Фармацевтические таблетки 10 мг, аналог Adderall. Блистер 20 шт.",
     price: 79.99,
@@ -168,7 +168,7 @@ export const bdProducts = [
   {
     id: 19,
     title: "Риталин",
-    imageUrl: "/Img/products/Метилфенидат-Риталин.png",
+    imageUrl: "./Img/products/Метилфенидат-Риталин.png",
     description: "Ноотропный стимулятор центральной нервной системы.",
     price: 89.99,
     categories: 2,
@@ -176,7 +176,7 @@ export const bdProducts = [
   {
     id: 20,
     title: "α-PVP",
-    imageUrl: "/Img/products/alfa.png",
+    imageUrl: "./Img/products/alfa.png",
     description: "Синтетический катинон. Жесткая психостимуляция.",
     price: 54.99,
     categories: 2,
@@ -184,7 +184,7 @@ export const bdProducts = [
   {
     id: 21,
     title: "4-MMC",
-    imageUrl: "/Img/products/Мефедрон.png",
+    imageUrl: "./Img/products/Мефедрон.png",
     description: "Кристаллический стимулятор и эмпатоген. 'Снежный драйв'.",
     price: 74.99,
     categories: 2,
@@ -192,7 +192,7 @@ export const bdProducts = [
   {
     id: 22,
     title: "Эфедрин",
-    imageUrl: "/Img/products/efedrin-hidroklorur-osel.png",
+    imageUrl: "./Img/products/efedrin-hidroklorur-osel.png",
     description:
       "Стимулятор и предшественник. Применяется в медицине и как допинг.",
     price: 39.95,
@@ -201,7 +201,7 @@ export const bdProducts = [
   {
     id: 23,
     title: "Крэк",
-    imageUrl: "/Img/products/крэк-кокаин.png",
+    imageUrl: "./Img/products/крэк-кокаин.png",
     description: "Готовые камешки для курения. Мгновенный приход.",
     price: 99.99,
     categories: 2,
@@ -209,7 +209,7 @@ export const bdProducts = [
   {
     id: 24,
     title: "Модафинил",
-    imageUrl: "/Img/products/Modafinil.png",
+    imageUrl: "./Img/products/Modafinil.png",
     description: "Ноотроп для повышения когнитивных способностей и бодрости.",
     price: 45.0,
     categories: 2,
@@ -217,7 +217,7 @@ export const bdProducts = [
   {
     id: 25,
     title: "3-FPM",
-    imageUrl: "/Img/products/3-fpm.png",
+    imageUrl: "./Img/products/3-fpm.png",
     description: "Функциональный стимулятор. Повышает концентрацию и энергию.",
     price: 64.99,
     categories: 2,
@@ -225,7 +225,7 @@ export const bdProducts = [
   {
     id: 26,
     title: "2-FMA",
-    imageUrl: "/Img/products/2FMA.png",
+    imageUrl: "./Img/products/2FMA.png",
     description: "Мощный стимулятор для работы или учебы на 10+ часов.",
     price: 59.99,
     categories: 2,
@@ -233,7 +233,7 @@ export const bdProducts = [
   {
     id: 27,
     title: "Гептаминол",
-    imageUrl: "/Img/products/Heptaminol.png",
+    imageUrl: "./Img/products/Heptaminol.png",
     description:
       "Стимулятор центральной нервной системы. Повышает физическую выносливость.",
     price: 69.95,
@@ -242,7 +242,7 @@ export const bdProducts = [
   {
     id: 28,
     title: "Центредин",
-    imageUrl: "/Img/products/etamivan-toxicology.png",
+    imageUrl: "./Img/products/etamivan-toxicology.png",
     description: "Аналептик, стимулятор дыхательного центра.",
     price: 34.99,
     categories: 2,
@@ -250,7 +250,7 @@ export const bdProducts = [
   {
     id: 29,
     title: "Оксикодон IR",
-    imageUrl: "/Img/products/оксикодон.png",
+    imageUrl: "./Img/products/оксикодон.png",
     description:
       "Сильнодействующий опиоидный анальгетик. Таблетки с немедленным высвобождением.",
     price: 34.99,
@@ -259,7 +259,7 @@ export const bdProducts = [
   {
     id: 30,
     title: "Морфин сульфат",
-    imageUrl: "/Img/products/lechenie-pristrastyavane-morfin.png",
+    imageUrl: "./Img/products/lechenie-pristrastyavane-morfin.png",
     description: "Ампулы для внутривенного введения. 10 мг/мл.",
     price: 69.99,
     categories: 3,
@@ -267,7 +267,7 @@ export const bdProducts = [
   {
     id: 31,
     title: "Трамадол HCL",
-    imageUrl: "/Img/products/tramadol.png",
+    imageUrl: "./Img/products/tramadol.png",
     description: "Опиоидный анальгетик центрального действия.",
     price: 14.99,
     categories: 3,
@@ -275,7 +275,7 @@ export const bdProducts = [
   {
     id: 32,
     title: "Алпразолам",
-    imageUrl: "/Img/products/Алпразолам-Ксанакс-25-мг.png",
+    imageUrl: "./Img/products/Алпразолам-Ксанакс-25-мг.png",
     description: "Бензодиазепин с сильным анксиолитическим действием.",
     price: 19.99,
     categories: 3,
@@ -283,7 +283,7 @@ export const bdProducts = [
   {
     id: 33,
     title: "Героин №4",
-    imageUrl: "/Img/products/white-heroin.png",
+    imageUrl: "./Img/products/white-heroin.png",
     description: "Растворимый белый порошок диацетилморфина.",
     price: 129.99,
     categories: 3,
@@ -291,7 +291,7 @@ export const bdProducts = [
   {
     id: 34,
     title: "Фентанил пластырь",
-    imageUrl: "/Img/products/fentanyl-patch.png",
+    imageUrl: "./Img/products/fentanyl-patch.png",
     description: "Опиоидный анальгетик для трансдермального введения.",
     price: 149.99,
     categories: 3,
@@ -299,7 +299,7 @@ export const bdProducts = [
   {
     id: 35,
     title: "Кодеин фосфат",
-    imageUrl: "/Img/products/codeine.png",
+    imageUrl: "./Img/products/codeine.png",
     description: "Слабый опиоид в виде белых таблеток.",
     price: 11.99,
     categories: 3,
@@ -307,7 +307,7 @@ export const bdProducts = [
   {
     id: 36,
     title: "Диазепам",
-    imageUrl: "/Img/products/diazepam.png",
+    imageUrl: "./Img/products/diazepam.png",
     description: "Бензодиазепин. Анксиолитик, противосудорожное.",
     price: 9.99,
     categories: 3,
@@ -315,7 +315,7 @@ export const bdProducts = [
   {
     id: 37,
     title: "Гидрокодон битартрат",
-    imageUrl: "/Img/products/hydrocodone.png",
+    imageUrl: "./Img/products/hydrocodone.png",
     description:
       "Vicodin 10/325. Опиоидный анальгетик с ацетаминофеном. Блистер 15 шт.",
     price: 29.99,
@@ -324,7 +324,7 @@ export const bdProducts = [
   {
     id: 38,
     title: "Тапентадол",
-    imageUrl: "/Img/products/aspadol-tapentadol.png",
+    imageUrl: "./Img/products/aspadol-tapentadol.png",
     description: "Современный опиоид. Двойной механизм действия.",
     price: 24.99,
     categories: 3,
@@ -332,7 +332,7 @@ export const bdProducts = [
   {
     id: 39,
     title: "Метадон",
-    imageUrl: "/Img/products/methadone.png",
+    imageUrl: "./Img/products/methadone.png",
     description: "Опиоид, используемый для заместительной терапии.",
     price: 19.99,
     categories: 3,
@@ -340,7 +340,7 @@ export const bdProducts = [
   {
     id: 40,
     title: "Клоназепам",
-    imageUrl: "/Img/products/Clonazepam-2-mg.png",
+    imageUrl: "./Img/products/Clonazepam-2-mg.png",
     description: "Противосудорожный препарат из группы бензодиазепинов.",
     price: 13.99,
     categories: 3,
@@ -348,7 +348,7 @@ export const bdProducts = [
   {
     id: 41,
     title: "Прегабалин",
-    imageUrl: "/Img/products/Pregabalin-Lyrica-150-mg.png",
+    imageUrl: "./Img/products/Pregabalin-Lyrica-150-mg.png",
     description:
       "Габапентиноид. Применяется при невропатической боли и тревоге.",
     price: 17.99,
@@ -357,7 +357,7 @@ export const bdProducts = [
   {
     id: 42,
     title: "МДМА кристаллы",
-    imageUrl: "/Img/products/MDMA-crystals.png",
+    imageUrl: "./Img/products/MDMA-crystals.png",
     description: "Кристаллический порошок. Чистый сассафрас.",
     price: 84.95,
     categories: 4,
@@ -365,7 +365,7 @@ export const bdProducts = [
   {
     id: 43,
     title: "Кетамин",
-    imageUrl: "/Img/products/ketamin.png",
+    imageUrl: "./Img/products/ketamin.png",
     description: "Белый кристаллический порошок. Диссоциатив.",
     price: 64.99,
     categories: 4,
@@ -373,7 +373,7 @@ export const bdProducts = [
   {
     id: 44,
     title: "ДМТ",
-    imageUrl: "/Img/products/dmt.png",
+    imageUrl: "./Img/products/dmt.png",
     description: "Желтоватые кристаллы. Мощный психоделик короткого действия.",
     price: 94.99,
     categories: 4,
@@ -381,7 +381,7 @@ export const bdProducts = [
   {
     id: 45,
     title: "2C-B (Нексус)",
-    imageUrl: "/Img/products/2cb.png",
+    imageUrl: "./Img/products/2cb.png",
     description: "Фенетиламин. Таблетки с логотипами.",
     price: 29.99,
     categories: 4,
@@ -389,7 +389,7 @@ export const bdProducts = [
   {
     id: 46,
     title: "МДА (Sally)",
-    imageUrl: "/Img/products/Ecstasy-Pills.png",
+    imageUrl: "./Img/products/Ecstasy-Pills.png",
     description: "Эмпатоген + легкие визуалы.",
     price: 74.99,
     categories: 4,
@@ -397,7 +397,7 @@ export const bdProducts = [
   {
     id: 47,
     title: "GHB",
-    imageUrl: "/Img/products/GHB.png",
+    imageUrl: "./Img/products/GHB.png",
     description: "Жидкость в пузырьке. Депрессант.",
     price: 34.99,
     categories: 4,
@@ -405,7 +405,7 @@ export const bdProducts = [
   {
     id: 48,
     title: "Псилоцибиновые грибы",
-    imageUrl: "/Img/products/Psilocybin-crystals.png",
+    imageUrl: "./Img/products/Psilocybin-crystals.png",
     description: "Сушеные грибы Psilocybe Cubensis. Эффект 4-6 часов.",
     price: 39.99,
     categories: 4,
@@ -413,7 +413,7 @@ export const bdProducts = [
   {
     id: 49,
     title: "5-MeO-DMT",
-    imageUrl: "/Img/products/5-MeO-DMT.png",
+    imageUrl: "./Img/products/5-MeO-DMT.png",
     description:
       "Кристаллический порошок из жаб жабы. Кратковременный, но очень мощный.",
     price: 149.99,
@@ -422,7 +422,7 @@ export const bdProducts = [
   {
     id: 50,
     title: "Мескалин HCL",
-    imageUrl: "/Img/products/Mescaline-HCL.png",
+    imageUrl: "./Img/products/Mescaline-HCL.png",
     description: "Психоделик из кактуса Сан-Педро. Эффект 12-14 часов.",
     price: 109.99,
     categories: 4,
@@ -430,7 +430,7 @@ export const bdProducts = [
   {
     id: 51,
     title: "JWH-018",
-    imageUrl: "/Img/products/JWH-018.png",
+    imageUrl: "./Img/products/JWH-018.png",
     description: "Синтетический каннабиноид. Белый порошок.",
     price: 44.95,
     categories: 5,
@@ -438,7 +438,7 @@ export const bdProducts = [
   {
     id: 52,
     title: "MAM-2201",
-    imageUrl: "/Img/products/MAM-2201.png",
+    imageUrl: "./Img/products/MAM-2201.png",
     description: "Мощный агонист каннабиноидных рецепторов.",
     price: 49.99,
     categories: 5,
@@ -446,7 +446,7 @@ export const bdProducts = [
   {
     id: 53,
     title: "MDPHP ",
-    imageUrl: "/Img/products/MDPHP.png",
+    imageUrl: "./Img/products/MDPHP.png",
     description: "Синтетический катинон. Долгий стимулирующий эффект.",
     price: 64.99,
     categories: 5,
@@ -454,7 +454,7 @@ export const bdProducts = [
   {
     id: 54,
     title: "3-MMC",
-    imageUrl: "/Img/products/3-mmc.png",
+    imageUrl: "./Img/products/3-mmc.png",
     description: "Катинон. Мягкий стимулятор с эмпатогенными свойствами.",
     price: 69.99,
     categories: 5,
@@ -462,7 +462,7 @@ export const bdProducts = [
   {
     id: 55,
     title: "MXE",
-    imageUrl: "/Img/products/MXE.png",
+    imageUrl: "./Img/products/MXE.png",
     description: "Диссоциатив. Порошок для диссоциации.",
     price: 79.99,
     categories: 5,
@@ -470,7 +470,7 @@ export const bdProducts = [
   {
     id: 56,
     title: "2-FDCK",
-    imageUrl: "/Img/products/2-FDCK.png",
+    imageUrl: "./Img/products/2-FDCK.png",
     description: "Аналог кетамина, мягче и с более длительным действием.",
     price: 59.99,
     categories: 5,
@@ -478,7 +478,7 @@ export const bdProducts = [
   {
     id: 57,
     title: "25I-NBOMe",
-    imageUrl: "/Img/products/25I-NBOMe.png",
+    imageUrl: "./Img/products/25I-NBOMe.png",
     description: "Мощный галлюциноген, часто распространяемый как ЛСД.",
     price: 24.99,
     categories: 5,
@@ -486,7 +486,7 @@ export const bdProducts = [
   {
     id: 58,
     title: "Spice Paper K2",
-    imageUrl: "/Img/products/Spice-Paper-K2.png",
+    imageUrl: "./Img/products/Spice-Paper-K2.png",
     description: "Травяная смесь с синтетическими каннабиноидами.",
     price: 29.99,
     categories: 5,
@@ -494,7 +494,7 @@ export const bdProducts = [
   {
     id: 59,
     title: "Карфентанил порошок",
-    imageUrl: "/Img/products/Carfentanil-powder.png",
+    imageUrl: "./Img/products/Carfentanil-powder.png",
     description:
       "Очень сильный опиоид для ветеринарии. Только для исследований!",
     price: 199.99,
@@ -503,7 +503,7 @@ export const bdProducts = [
   {
     id: 60,
     title: "U-47700",
-    imageUrl: "/Img/products/U-47700.png",
+    imageUrl: "./Img/products/U-47700.png",
     description: "Синтетический опиоид, розовый порошок.",
     price: 89.99,
     categories: 5,
@@ -511,7 +511,7 @@ export const bdProducts = [
   {
     id: 61,
     title: "Eutylone",
-    imageUrl: "/Img/products/Eutylone.png",
+    imageUrl: "./Img/products/Eutylone.png",
     description: "Синтетический катинон, аналог метилона и этилона.",
     price: 79.99,
     categories: 5,

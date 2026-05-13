@@ -20,7 +20,7 @@ export function viewProduct(id, title, imageUrl, description, price) {
   product.querySelector(".addButton").addEventListener("click", () => {
     const user = getCurrentUser();
     if (!user) {
-      window.location.href = "/BlackMarket/pages/Profile/profile.html";
+      window.location.href = "./pages/Profile/profile.html";
       return;
     }
 
