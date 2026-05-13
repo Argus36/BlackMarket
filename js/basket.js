@@ -65,7 +65,7 @@ if (checkoutBtn) {
     const { checkout, getCurrentUser } = await import("./auth.js");
     const user = getCurrentUser();
     if (!user) {
-      window.location.href = "../../pages/Profile/profile.html";
+      window.location.href = "/BlackMarket/pages/Profile/profile.html";
       return;
     }
     if (checkout()) {
